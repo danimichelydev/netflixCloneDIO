@@ -1,0 +1,31 @@
+@media (max-width: 660px){
+    header .container {
+        display: flex;
+        flex-direction: column;
+        margin: 20px auto;
+    }
+    .netflix-logo {
+        width: 150px;
+        height: 35px;
+        margin: 20px
+    }
+    .featured-movie {
+        height: 650px;
+    }
+    .button {
+        margin-top: 10px;
+        width: 250px;
+    }
+    .title {
+        font-size: 2rem;
+        margin-top: 60%;
+    }
+    .carousel-movie {
+        margin-left: 0px;
+        margin: 60px 40px;
+    }
+    .carousel-title {
+        margin: 10px auto 10px 0px;
+        font-size: 1.5rem;
+    }
+}
